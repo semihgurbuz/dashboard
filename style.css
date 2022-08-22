@@ -61,7 +61,7 @@ body {
 .upper {
   margin-top: 1rem;
   display: grid;
-  grid-template-columns: 1fr 3fr 2fr;
+  grid-template-columns: 0.2fr 2.5fr 1.2fr;
 }
 .search-icon {
   margin-left: 2rem;
@@ -72,12 +72,13 @@ input {
   background-color: #e2e8f0;
   border: none;
   border-radius: 1rem;
+  margin-right: 20%;
 }
 .avatar {
   display: grid;
   grid-template-columns: 1fr 1fr 2fr;
-  margin-left: 8rem;
-  margin-right: 5rem;
+  margin-left: 30%;
+  margin-right: 4rem;
 }
 .avatar h3 {
   position: relative;
