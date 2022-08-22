@@ -151,6 +151,20 @@ button {
   background-color: #ffffff;
   border-radius: 8px;
   box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  padding: 5%;
+  border-left: 10px solid #f0b429;
+}
+.card img {
+  float: right;
+  margin-right: 5%;
+  margin-top: 5%;
+}
+.card p {
+  font-size: 1rem;
+  margin-top: 0;
+}
+.card h3 {
+  margin-bottom: 0;
 }
 
 .anns {
